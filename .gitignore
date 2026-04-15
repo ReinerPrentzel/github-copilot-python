@@ -4,3 +4,4 @@ Thumbs.db
 
 # Ignore Python virtual environment
 .venv/
+starter/__pycache__/sudoku_logic.cpython-312.pyc
